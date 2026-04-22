@@ -1,5 +1,9 @@
 # EHRAG
 
+<div align="center">
+  <img src="Framework-1.png" width="100%">
+</div>
+
 **EHRAG** is a lightweight GraphRAG-style question answering framework that augments dense retrieval with an entity-centered heterogeneous graph and semantic concept clustering.
 
 According to the current codebase, the pipeline:
